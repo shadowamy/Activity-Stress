@@ -5,5 +5,6 @@ The tentative references to BibTex are as follows, and this page will be updated
   author={Kun Liang},  
   title={Activity-Stress Dataset},  
   year={2022},  
-  url={https://github.com/shadowamy/Activity-Stress},  
+  url={https://github.com/shadowamy/Activity-Stress  
+  },  
 }
